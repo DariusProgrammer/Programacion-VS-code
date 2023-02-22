@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Among us</title>
+        <style type="text/css">
+            
+            body {
+                background: url(https://images.pexels.com/photos/7311920/pexels-photo-7311920.jpeg?cs=srgb&dl=pexels-alberlan-barros-7311920.jpg&fm=jpg) no-repeat;
+                background-size: cover;  
+            }   
+            
+            a.myLink {
+                text-align: center;
+                display: block;
+                width: 600px;
+                height: 500px;
+                text-decoration: none;
+                color: rgb(255, 119, 0);
+                background-repeat:no-repeat;
+            }
+            a.myLink:hover {
+                background-image:url(https://assets.stickpng.com/images/61d183263a856e0004c6334a.png);
+                width: 900px;
+                height: 880px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style="text-align: center;">
+            <p style="color:#ffffff">Found Among Us</p>
+        </h1>
+        
+        <h3><p style="color:#ffffff; text-align: center;">Otra web mÃ¡s</p>
+        <h3><p style="color:#ffffff">Suddenly i found among us, among us suddenly i found among us, among us, i found among us i found suddenly, i found among us suddenly</p>
+        <h3><p style="color:#ffffff">I found among us, i found, i found, i found among us</p>
+        <a class="myLink" href="https://toppng.com/uploads/preview/red-among-us-png-vector-download-11640991587fawrij7j5s.png">I found among us HERE:</a>
+        
+        <h1>
+            <p style="color:#ffffff; text-align: center;">How to found among us</p>
+        </h1>
+        <h3><p style="color: white;">First, you need to create a new account called "SatanasiaClown's party", then you need to find a letter that says: By the way, by the way. by the way, first is first, and second is second, but all is the same ass you think that it is, but never think things.</p>
+    </body>
+</html>
